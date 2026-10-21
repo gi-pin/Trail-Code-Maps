@@ -1,6 +1,6 @@
 # Workspace skill installation
 
-Source: https://github.com/gi-pin/Trail-Code-aps
+Source: https://github.com/gi-pin/Trail-Code-Maps
 Source commit: b1211efd3eef0efa121b93800e5dd8e547aead77
 Skill count: 1
 
